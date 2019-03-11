@@ -1,0 +1,14 @@
+.clearfix: after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  
+  section {
+    float: left;
+  }
+  
+  aside {
+    float: right;
+  }
+  
